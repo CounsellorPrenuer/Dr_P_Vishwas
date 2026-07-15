@@ -74,7 +74,7 @@ export default function ContactUs({ contactData }) {
             
             {formSubmitted ? (
               <div className="bg-green-50 text-green-800 p-6 rounded-2xl text-center font-semibold border border-green-200 transition-all transform scale-100 duration-300">
-                Thank you! We've received your query and will contact you shortly.
+                Thank you! We&apos;ve received your query and will contact you shortly.
               </div>
             ) : (
               <form onSubmit={handleFormSubmit} className="space-y-6">

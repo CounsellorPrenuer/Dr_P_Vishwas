@@ -1,7 +1,7 @@
-# Counselling and Mentoring - Dr. P Vishwas
+# Counselling and Mentoring - Dr. P Vishwaas
 
-Welcome to the official repository for the **Counselling and Mentoring** website, built for Dr. P Vishwas. 
-Dr. Vishwas is a dedicated counselor and mentorpreneur who helps people find direction, confidence, and purpose through professional guidance.
+Welcome to the official repository for the **Counselling and Mentoring** website, built for Dr. P Vishwaas. 
+Dr. Vishwaas is a dedicated counselor and mentorpreneur who helps people find direction, confidence, and purpose through professional guidance.
 
 ## Live Website
 🌍 **[Visit the Live Website](https://CounsellorPrenuer.github.io/Dr_P_Vishwas)**
