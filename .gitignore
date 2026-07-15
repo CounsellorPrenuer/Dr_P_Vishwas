@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Sanity Studio exclusions
+sanity.config.js
+sanity.cli.js
+src/app/studio/
+sanity/schema.js
+sanity/schemaTypes/
+sanity/populate.js
